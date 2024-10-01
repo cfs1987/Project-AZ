@@ -1,0 +1,11 @@
+Projeto: Monitoramento de Temperatura
+
+Descrição: Usa Azure para acompanhar a temperatura de um local. Dados são enviados para o Azure IoT Hub.
+
+Objetivos:
+
+Verificar a temperatura em tempo real.
+Tecnologias Utilizadas:
+
+Azure IoT Hub
+Focado em manter a temperatura adequada.
